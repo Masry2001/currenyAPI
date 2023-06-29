@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .price {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .amount {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .egp,
+  .sar,
+  .eur {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .egp span,
+  .sar span,
+  .eur span {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  script {
+    display: none; /* Hide the script tag */
+  }
+  
